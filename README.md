@@ -1,1 +1,2 @@
-# SimpleWebAppOrg
+# SimpleWebApp
+SimpleWebApp
